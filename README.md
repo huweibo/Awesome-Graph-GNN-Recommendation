@@ -15,8 +15,8 @@ This repository summarizes the related works on GNN and GNN-based recommendation
 
 \---read more---
 1. \[PMLR 2017\] **Neural message passing for quantum chemistry (MPNN).** [paper](http://proceedings.mlr.press/v70/gilmer17a/gilmer17a.pdf)
-2. \[ICLR 2019\] **How powerful are graph neural networks? (GIN).** [paper](https://arxiv.org/pdf/1810.00826)
-3. \[KDD 2018\] **Large-scale learnable graph convolutional networks (LGCN).** [paper](https://dl.acm.org/doi/pdf/10.1145/3219819.3219947)
+2. \[KDD 2018\] **Large-scale learnable graph convolutional networks (LGCN).** [paper](https://dl.acm.org/doi/pdf/10.1145/3219819.3219947)
+3. \[ICLR 2019\] **How powerful are graph neural networks? (GIN).** [paper](https://arxiv.org/pdf/1810.00826)
 4. \[PMLR 2019\] **Simplifying graph convolutional networks (SGC).** [paper](http://proceedings.mlr.press/v97/wu19e/wu19e.pdf)
 
 ## GNN Recommendation: Survey Papers
@@ -48,7 +48,10 @@ This repository summarizes the related works on GNN and GNN-based recommendation
 ## GNN Sequential Recommendation
 (waiting...)
 
-Other related repositories:
+other ralated papers:
+* \[arXiv 2021\] **Graph Learning: A Survey.** [paper](https://arxiv.org/pdf/2105.00696)
+
+other related repositories:
 * https://github.com/Jhy1993/Awesome-GNN-Recommendation
 * https://github.com/JockWang/Graph-in-Recommendation-Systems
 * https://github.com/thunlp/GNNPapers

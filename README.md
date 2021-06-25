@@ -14,11 +14,13 @@ This repository summarizes the related works on GNN and GNN-based recommendation
 3. \[ICLR 2018\] **Graph attention networks (GAT).** [paper](https://arxiv.org/pdf/1710.10903)
 
 \---read more---
-1. \[PMLR 2017\] **Neural message passing for quantum chemistry (MPNN).** [paper](http://proceedings.mlr.press/v70/gilmer17a/gilmer17a.pdf)
-2. \[ICLR 2018\] **Fastgcn: fast learning with graph convolutional networks via importance sampling (FsatGCN).** [paper](https://arxiv.org/pdf/1801.10247)
-3. \[KDD 2018\] **Large-scale learnable graph convolutional networks (LGCN).** [paper](https://dl.acm.org/doi/pdf/10.1145/3219819.3219947)
-4. \[ICLR 2019\] **How powerful are graph neural networks? (GIN).** [paper](https://arxiv.org/pdf/1810.00826)
-5. \[PMLR 2019\] **Simplifying graph convolutional networks (SGC).** [paper](http://proceedings.mlr.press/v97/wu19e/wu19e.pdf)
+1. \[ICLR 2014\] **Spectral Networks and Deep Locally Connected Networks on Graphs.** [paper](https://arxiv.org/pdf/1312.6203.pdf%20http://arxiv.org/abs/1312.6203)
+2. \[NeurIPS 2016\] **Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering.** [paper](https://arxiv.org/pdf/1606.09375.pdf)
+3. \[PMLR 2017\] **Neural message passing for quantum chemistry (MPNN).** [paper](http://proceedings.mlr.press/v70/gilmer17a/gilmer17a.pdf)
+4. \[ICLR 2018\] **Fastgcn: fast learning with graph convolutional networks via importance sampling (FsatGCN).** [paper](https://arxiv.org/pdf/1801.10247)
+5. \[KDD 2018\] **Large-scale learnable graph convolutional networks (LGCN).** [paper](https://dl.acm.org/doi/pdf/10.1145/3219819.3219947)
+6. \[ICLR 2019\] **How powerful are graph neural networks? (GIN).** [paper](https://arxiv.org/pdf/1810.00826)
+7. \[PMLR 2019\] **Simplifying graph convolutional networks (SGC).** [paper](http://proceedings.mlr.press/v97/wu19e/wu19e.pdf)
 
 ## GNN Recommendation: Survey Papers
 1. \[arXiv 2020\] **Graph neural networks in recommender systems: a survey.** [paper](https://arxiv.org/pdf/2011.02260)
